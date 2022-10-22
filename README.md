@@ -53,4 +53,4 @@
 
 **Modrinth: **
 
-**Releases: **
+**Releases: https://github.com/TheDreamer123/They-Are-Multiplying/releases/tag/1.19.x**
