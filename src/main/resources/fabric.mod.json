@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "theyaremultiplying",
+  "version": "${version}",
+
+  "name": "They Are Multiplying!",
+  "description": "Just because you can, it does not mean you should.",
+  "authors": [
+    "TheDreamer123"
+  ],
+  "contact": {
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/they-are-multiplying",
+    "sources": "https://github.com/TheDreamer123/They-Are-Multiplying",
+    "issues": "https://github.com/TheDreamer123/They-Are-Multiplying/issues"
+  },
+
+  "license": "MIT",
+  "icon": "assets/theyaremultiplying/theyaremultiplying.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.dreamer.theyaremultiplying.TheyAreMultiplying"
+    ]
+  },
+  "mixins": [
+    "theyaremultiplying.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.6",
+    "fabric": "*",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
