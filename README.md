@@ -49,7 +49,7 @@
 **The path for this one would be:** `theyaremultiplying/tags/items/mobsplus/burnt_zombie_edible.json`
 
 ### Links
-**CurseForge: **
+**CurseForge: https://www.curseforge.com/minecraft/mc-mods/they-are-multiplying**
 
 **Modrinth: **
 
