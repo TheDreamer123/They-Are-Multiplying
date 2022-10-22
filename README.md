@@ -51,6 +51,6 @@
 ### Links
 **CurseForge: https://www.curseforge.com/minecraft/mc-mods/they-are-multiplying**
 
-**Modrinth: **
+**Modrinth: https://modrinth.com/mod/they-are-multiplying**
 
 **Releases: https://github.com/TheDreamer123/They-Are-Multiplying/releases/tag/1.19.x**
